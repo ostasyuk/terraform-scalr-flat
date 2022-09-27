@@ -1,4 +1,4 @@
-resource "random_pet" "run_from_vcs" {
+х resource "random_pet" "run_from_vcs" {
   keepers = {
     timestamp = timestamp()
   }
